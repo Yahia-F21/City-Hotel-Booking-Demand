@@ -1,0 +1,2 @@
+Model,Target,PredictionTime,TrainingSamples,TestSamples,FeatureCount,ExcludedFeatures,MAE,RMSE,R2
+LinearRegression,ADR,At booking creation,41856,10464,68,IsCanceled,16.246489061560467,22.863017285454045,0.6693185829116832
