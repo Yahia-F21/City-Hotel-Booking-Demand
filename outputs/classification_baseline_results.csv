@@ -1,0 +1,2 @@
+Model,Target,PredictionTime,ValidationF1,ValidationAccuracy,ValidationPrecision,ValidationRecall,DecisionThreshold,TrainingSamples,TestSamples,FeatureCount,Accuracy,Precision,Recall,F1,TN,FP,FN,TP
+balanced_logit,IsCanceled,At booking creation,0.6618657937806874,0.7565688700365264,0.5702199661590525,0.7886115444617785,0.5,42433,10609,69,0.7534169101706099,0.5664556962025317,0.782147315855181,0.6570529627687467,5487,1918,698,2506

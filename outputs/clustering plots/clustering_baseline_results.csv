@@ -1,0 +1,7 @@
+Algorithm,NumberOfClusters,Inertia,SilhouetteScore,DaviesBouldinIndex
+K-Means,2,597454.66,0.5135,1.4032
+K-Means,3,530057.64,0.3853,1.4673
+K-Means,4,481756.12,0.2869,1.4285
+K-Means,5,433356.23,0.1696,1.7205
+K-Means,6,396183.23,0.173,1.5546
+K-Means,7,365121.82,0.185,1.4323
